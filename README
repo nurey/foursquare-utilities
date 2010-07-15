@@ -1,0 +1,2 @@
+./history.sh login > history.out
+./parsehistory.pl VenueName < history.out
