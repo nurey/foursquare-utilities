@@ -1,2 +1,4 @@
+This project is UNMAINTAINED.
+
 ./history.sh login > history.out
 ./parsehistory.pl VenueName < history.out
